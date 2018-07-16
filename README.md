@@ -6,8 +6,7 @@ Energy efficiency
 This study looked into assessing the heating load and cooling load requirements of buildings (that is, energy efficiency) as a function of building parameters.
 
 ## Goal: 
-Adding cooling load and heating load can define the overall load of the apartment. Studied the trend of overall load and divided it into three classes, low efficient, high efficient and average efficient. Then train a deep learning model to predict the label.
-First I applied simple machine learning models like KNN, logistic regression, random forest, decision tree, linear & kernalised SVM and compared the precision and recall of each of the above mentioned models. After running the simple models I wanted to see how these models perform after bagging and boosting. As the data file had 220+ variables, PCA looked as the best option.Hence after performing PCA on the above models we got the best model with accuracy as 75%. 
+Adding cooling load and heating load can define the overall load of the apartment. Studied the trend of overall load and divided it into three classes, low efficient, high efficient and average efficient. Then train a deep learning model to predict the label. First I applied multioutput machine learning regressor models like KNN, logistic regression, random forest, decision tree, linear & kernalised SVM. After that I created a neural network classification model to increase the accuracy of the classification to 97%
 
 ## Source:
 The dataset was created by Angeliki Xifara and was processed by Athanasios Tsanas, Oxford Centre for Industrial and Applied Mathematics, University of Oxford, UK).
