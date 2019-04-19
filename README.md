@@ -1,7 +1,7 @@
 # Energy Efficiency Optimization using Neural Networks
 > This study looked into assessing the heating load and cooling load requirements of buildings (that is, energy efficiency) as a function of building parameters.
 The project was done as part of Machine Learning class at the University of Texas at Dallas.
-The entire summary of the project can be found in the [Jupyter Notebook](https://github.com/harshbg/Energy-Efficiency-Enhancement-using-Neural-Networks/blob/master/Energy%20Efficiency%20Analysis%20.ipynb)
+The entire summary of the project can be found in the [Jupyter Notebook](https://github.com/siddharthoza/Energy-Efficiency-Optimization-Neural-network/blob/master/Energy%20Efficiency%20Analysis%20.ipynb)
 
 ## Table of contents
 * [General info](#general-info)
@@ -24,8 +24,8 @@ We have added the cooling load and heating load, which can define the overall lo
 
 ## Setup
 
-The dataset used and its metadata can be found in the [dataset](https://github.com/harshbg/Energy-Efficiency-Enhancement-using-Neural-Networks/tree/master/data). 
-The jupyter notebook can be downloaded [here](https://github.com/harshbg/Energy-Efficiency-Enhancement-using-Neural-Networks/blob/master/Energy%20Efficiency%20Analysis%20.ipynb) and can be used to reproduce the result. 
+The dataset used and its metadata can be found in the [dataset](https://github.com/siddharthoza/Energy-Efficiency-Optimization-Neural-network/tree/master/data). 
+The jupyter notebook can be downloaded [here](https://github.com/siddharthoza/Energy-Efficiency-Optimization-Neural-network/blob/master/Energy%20Efficiency%20Analysis%20.ipynb) and can be used to reproduce the result. 
 Installation of TensorFlow would be required to run all the models. 
 You can find the instructions to install TensorFlow in [installation guide](https://www.tensorflow.org/install/pip).
 
