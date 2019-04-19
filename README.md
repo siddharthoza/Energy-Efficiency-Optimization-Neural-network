@@ -133,6 +133,7 @@ Project is: _finished_
 Created by me and my teammate [Harsh gupta](https://github.com/harshbg).
 
 If you loved what you read here and feel like we can collaborate to produce some exciting stuff, or if you
-just want to shoot a question, please feel free to connect with me on <a href="hello@gupta-harsh.com" target="_blank">email</a>, 
-<a href="www.linkedin.com/in/siddharthoza" target="_blank">LinkedIn</a>, or 
+just want to shoot a question, please feel free to connect with me on <a href="siddharth.oza@outlook.com" target="_blank">email</a>, 
+<a href="www.linkedin.com/in/siddharthoza" target="_blank">LinkedIn</a>
+
 My other projects can be found [here](www.siddharthoza.com).
