@@ -130,7 +130,7 @@ sr no	| model	| train_r2_score	| test_r2_score
 Project is: _finished_
 
 ## Contact
-Created by me and my teammate [Harsh gupta](https://github.com/harshbg).
+Created by me and my teammate Harsh gupta.
 
 If you loved what you read here and feel like we can collaborate to produce some exciting stuff, or if you
 just want to shoot a question, please feel free to connect with me on <a href="siddharth.oza@outlook.com" target="_blank">email</a>, 
